@@ -1,0 +1,86 @@
+
+.navname { 
+	color: grey;
+	margin: 0px 0 30px 0;
+	background-color: white;
+	border-style: solid;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-color: #337AB7;
+ }
+
+
+
+body {
+	background-image: url(../images/grey.png);
+}
+
+.container { 
+	border-width: 1px;
+	border-color: #337AB7; 
+	border-style: solid;
+	border-radius:7px;
+
+	 }
+
+
+.row-height { 
+	height:75px;
+ }
+
+
+.header { 
+	border-style: solid;
+	border-bottom-width: 1px;
+	border-color: #337AB7;
+	color: grey; 
+	text-align: center;
+	font-size: 33px;
+	border-radius:5px;
+	background-color: white;
+	padding-top: 3px;
+ }
+
+
+ .nav-pills { 
+	font-size: 20px;
+
+  }
+
+  
+.bio { 
+	margin: 0 0 0 10px;
+   }
+
+span { 
+	font-size: 20px;
+	color: grey;
+ }
+
+
+ .footer { 
+		text-align: center;
+		height:50px;
+		color: grey; 
+		padding-top: 30px;
+  }
+
+
+.caption { 
+	text-align: center;
+ }
+
+
+.contactpage { 
+	margin: 0 50px 0 50px; 
+ }
+
+
+
+@media screen and (max-width: 990px) {
+.row-height { 
+	height:150px;
+ }
+}
+
+
